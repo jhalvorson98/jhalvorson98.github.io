@@ -12,19 +12,15 @@ body > * {
 }
 
 div{
-  background-color: lightblue;
   margin-left: 25em;
   margin-right: 25em;
   flex-grow: 1;
-}
+  width:800px; 
+  margin:0 auto;
 
-h1 {
-  color: white;
 }
 
 p {
-  color: white;
   font-family: verdana;
   font-size: 20px;
-
 }
